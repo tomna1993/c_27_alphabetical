@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-This program prompts the user for a lowercase string and checks if the characters are in alphabetical order. If yes, print "Yes", if no, print "NO".
+This program prompts the user for a string and checks if the letters are lowercase and in alphabetical order. If yes, print "Yes", if no, print "NO".
 
 ## INSTALL LIBRARIES
 
